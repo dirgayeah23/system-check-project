@@ -16,4 +16,5 @@ df -h
 
 free -h
 
-
+# see processor
+nproc
