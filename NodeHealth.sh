@@ -18,3 +18,7 @@ free -h
 
 # see processor
 nproc
+
+# Display Linux Process
+
+top
