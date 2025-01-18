@@ -1,5 +1,12 @@
 #!/bin/bash
 
+###########################################################
+# Author : Dirgayeah
+# Date   : 17/01/2025
+#
+# This Script is used to check the health of the system
+#
+###########################################################
 
 set -x
 
